@@ -23,7 +23,7 @@ public class SwitchCaseCalculator {
 			break;
 		case '*':
 			result = num1*num2;
-			System.out.println(Result);
+			System.out.println(result);
 			break;
 		case '/':
 			if (num2!=0) {
